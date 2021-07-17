@@ -29,3 +29,17 @@ for name in names:
         # fetches the text width for 
         # calculations later on
         text_width, _ = draw.textsize(name, font = font)
+          
+        draw.text(
+            (
+                # this calculation is done 
+                # to centre the image
+                (image_width - text_width) / 2,
+                text_y_position
+            ),
+            name,
+            font = font        )
+   
+        # saves the image in png format
+        img.save("{}.png".format(name)) 
+  
