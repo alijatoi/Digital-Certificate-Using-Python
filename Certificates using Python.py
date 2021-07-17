@@ -43,3 +43,20 @@ for name in names:
         # saves the image in png format
         img.save("{}.png".format(name)) 
   
+# Driver Code
+if __name__ == "__main__":
+   
+    # some example of names
+    NAMES = ['Frank Muller',
+             'Mathew Frankfurt',
+             'Cristopher Greman',
+             'Natelie Wemberg',
+             'John Ken']
+      
+    # path to font
+    FONT = "/path / to / font / ITCEDSCR.ttf"
+      
+    # path to sample certificate
+    CERTIFICATE = "path / to / Certificate.png"
+   
+    coupons(NAMES, CERTIFICATE, FONT)
