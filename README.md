@@ -6,9 +6,13 @@ pip install Pillow
 pip install pandas
 pip install os
 
-### You must a certificate in jpg format. 
-#### Go the code directory and Create a folder Named " pictures" , Where Certificates will be saved.
-### Create a list.csv files to insert all the names in the list file which you want to be inserted in the ceritificate.
+#### Instructions 
+
+#### You must a certificate image in jpg format saved in the same code directory folder. 
+#### Create a list.csv files to insert all the names in the list file which you want to be inserted in the ceritificate.
+#### Create a folder Named " pictures" , Where Certificates will be saved.
+
+Run the Code and you are ready to go.
 
 
 
