@@ -8,11 +8,11 @@ pip install os
 
 #### Instructions 
 
-#### You must a certificate image in jpg format saved in the same code directory folder. 
-#### Create a list.csv files to insert all the names in the list file which you want to be inserted in the ceritificate.
-#### Create a folder Named " pictures" , Where Certificates will be saved.
 
-Run the Code and you are ready to go.
+#### insert all the names in the list file which you want to be printed in the ceritificate.
+#### if you are changing the certificate image, change the xy cordinates according to your certificate image location of name position
+
+Run the Code and you are good to go
 
 
 
