@@ -1,7 +1,7 @@
 from PIL import Image, ImageDraw, ImageFont
 import pandas as pd
 import os
-df = pd.read_csv('D:/Digital-Certificate-Using-Python-main/list.csv')
+df = pd.read_csv('list.csv')
 
 font = ImageFont.truetype('arial.ttf',120)
 for index,j in df.iterrows():
