@@ -12,6 +12,9 @@
 #### Create a folder named as "pictures" where generated certificates will be saved
 #### if you are changing the certificate image, change the xy cordinates according to your certificate image location of name position
 
+#### Make sure you are Running the Main Python Code in Administrator Mode / 
+#### Opening the Code Directory in Administrator Mode So that Writing permission is granted in the pictures folder
+
 Run the Code and you are good to go
 
 
