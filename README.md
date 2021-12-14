@@ -20,7 +20,10 @@
 #### Your Project Directory should look like this 
 ![alt text](https://github.com/alijatoi/Digital-Certificate-Using-Python/blob/main/project%20digital.jpg)
 
+
 #### Replace the Path according to your direcotry folder.
+
+
 ![alt text](https://github.com/alijatoi/Digital-Certificate-Using-Python/blob/main/ss%202.jpg)
 
 
