@@ -17,6 +17,10 @@
 #### vi) Opening the Code Directory in Administrator Mode So that Writing permission is granted in the pictures  
 #### vii) Allow the Action when secuirty prompt pop up while running the program
 
+#### Your Project Directory should look like this 
+![alt text](https://github.com/alijatoi/Digital-Certificate-Using-Python/blob/main/project%20digital.jpg)
+
+
 Run the Code and you are good to go
 
 
